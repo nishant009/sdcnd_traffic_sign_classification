@@ -1,5 +1,5 @@
-# **Finding Lane Lines on the Road**
-# Udacity's Self-Driving Car NanoDegree - Project 1
+# **Traffic Sign Classification**
+# Udacity's Self-Driving Car NanoDegree - Project 2
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 
