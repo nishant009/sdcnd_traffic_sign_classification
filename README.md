@@ -50,6 +50,6 @@ To run the project, you need to run the ***jupyter*** server. Do so by running t
 ```sh
 jupyter notebook
 ```
-Follow instructions on the command line to open the ***jupyter*** interface in your browser and once logged in click on one of the ***Code&ast;.ipynb*** file to load the code for the project.
+Follow instructions on the command line to open the ***jupyter*** interface in your browser and once logged in click on one of the ***&ast;.ipynb*** file to load the code for the project.
 
 Run individual cells in the notebook to interact with the implementation.
